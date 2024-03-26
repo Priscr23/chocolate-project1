@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 st.title('Cacao flavors project')
 st.markdown('*priscila cervantes*')
 st.header('Historia del cacao')
@@ -17,7 +18,86 @@ se modificó aún más convirtiendola a lo que hoy en día conocemos como el cho
 en barra; así igual llegó mundialmente agregándole más ingredientes. """)
 st.image('C:/Users/prisc/apps/chocolate-project1/data/raw/cacao.webp')
 st.header('Data set')
-
-df=pd.read_csv('C:/Users/prisc/apps/chocolate-project1/reports/streamlit/data_limpia.csv')
+df=pd.read_csv('C:/Users/prisc/apps/chocolate-project1/notebooks/datos_limpios.csv')
 st.dataframe(df)
 print('\n')
+moda_bean = df['Bean type'].mode()[0]
+plt.figure(figsize=(8, 6))
+df['Bean type'].value_counts().plot(kind='bar',color='#A0522D')
+plt.title('Frecuencia de Tipos de Frijoles')
+plt.xlabel('Tipo de Frijol')
+plt.ylabel('Frecuencia')
+plt.xticks(rotation=45)
+st.pyplot()
+
+# Mostrar la moda de los tipos de frijoles en Streamlit
+st.write("La moda de los tipos de frijoles es:", moda_bean)
+print('\n')
+frecuencia_region = df['Broad region of origin of bean'].value_counts()
+region_mas_comun = frecuencia_region.idxmax()
+st.write("La región de origen más común de las semillas de cacao es:", region_mas_comun)
+st.bar_chart(frecuencia_region, color='#D2691E')
+print('\n')
+frecuencia_ubicacion = df['Company location'].value_counts()
+ubicacion_mas_comun = frecuencia_ubicacion.idxmax()
+st.write("La ubicación más común de las compañías productoras de chocolate es:", ubicacion_mas_comun)
+st.bar_chart(frecuencia_ubicacion, color='#6B4423')
+print('\n')
+calificacion_promedio_porcentaje = df.groupby('Cocoa %')['Rating'].mean()
+calificacion_promedio_porcentaje = calificacion_promedio_porcentaje.sort_values()
+porcentaje_mas_popular = calificacion_promedio_porcentaje.idxmax()
+st.write("El porcentaje de cacao más popular es:", porcentaje_mas_popular)
+st.bar_chart(calificacion_promedio_porcentaje, color='#8B4513')
+print('\n')
+calificacion_promedio_por_tipo = df.groupby('Bean type')['Rating'].mean()
+max_rating = calificacion_promedio_por_tipo.max()
+tipos_mas_puntuados = calificacion_promedio_por_tipo[calificacion_promedio_por_tipo == max_rating].index.tolist()
+st.write("Los tipos de semilla de frijol con los mayores puntajes son:")
+for tipo in tipos_mas_puntuados:
+    st.write(tipo)
+st.bar_chart(calificacion_promedio_por_tipo, color='#DAA520')
+print('\n')
+st.subheader('Mejor rating')
+calificacion_promedio_por_compania = df.groupby('Company')['Rating'].mean()
+mejor_compania = calificacion_promedio_por_compania.idxmax()
+calificacion_promedio_maxima = calificacion_promedio_por_compania.max()
+ubicacion_mejor_compania = df.loc[df['Company'] == mejor_compania, 'Company location'].iloc[0]
+origen_cacao_mejor_compania = df.loc[df['Company'] == mejor_compania, 'Broad region of origin of bean'].iloc[0]
+region_cacao_mejor_compania = df.loc[df['Company'] == mejor_compania, 'Specific region of origin of bean'].iloc[0]
+st.write("La mejor compañía de acuerdo con la calificación promedio es:", mejor_compania, ", con un rating de:", calificacion_promedio_maxima)
+st.write("La ubicación de la compañía:", ubicacion_mejor_compania)
+st.write("El origen del cacao de la compañía:", origen_cacao_mejor_compania, ", específicamente de la región de:", region_cacao_mejor_compania)
+st.subheader('Peor rating')
+calificacion_promedio_por_compania = df.groupby('Company')['Rating'].mean()
+peor_compania = calificacion_promedio_por_compania.idxmin()
+calificacion_promedio_minima = calificacion_promedio_por_compania.min()
+ubicacion_peor_compania = df.loc[df['Company'] == peor_compania, 'Company location'].iloc[0]
+origen_cacao_peor_compania = df.loc[df['Company'] == peor_compania, 'Broad region of origin of bean'].iloc[0]
+region_cacao_peor_compania = df.loc[df['Company'] == peor_compania, 'Specific region of origin of bean'].iloc[0]
+st.write("La peor compañía de acuerdo con la calificación promedio es:", peor_compania, ", con un rating de:", calificacion_promedio_minima)
+st.write("La ubicación de la compañía:", ubicacion_peor_compania)
+st.write("El origen del cacao de la compañía:", origen_cacao_peor_compania, ", específicamente de la región de:", region_cacao_peor_compania)
+print('\n')
+chocolate_alto_cacao = df[df['Cocoa %'] > '60']
+frecuencia_compania = chocolate_alto_cacao['Company'].value_counts()
+compania_mas_comun = frecuencia_compania.idxmax()
+st.write("La compañía que produce principalmente chocolate con más del 60% de cacao es:", compania_mas_comun)
+st.bar_chart(frecuencia_compania, color='#D2691E')
+st.caption('Con 47 chocolates arriba igual o arriba del porcentaje')
+print('\n')
+st.subheader('Año de revisión')
+indice_ultima_revision = df['REF'].idxmax()
+ref_ultima_revision = df.loc[indice_ultima_revision, 'REF']
+fecha_ultima_revision = df.loc[indice_ultima_revision, 'Review date']
+rating_ultima_revision = df.loc[indice_ultima_revision, 'Rating']
+compania_ultima_revision = df.loc[indice_ultima_revision, 'Company']
+st.write("La última revisión realizada tiene el REF:", ref_ultima_revision, ", hecha en el año:", fecha_ultima_revision)
+st.write("Hecho hacia la compañía:", compania_ultima_revision, ", con un rating de:", rating_ultima_revision)
+print('\n')
+
+
+
+
+
+
+
