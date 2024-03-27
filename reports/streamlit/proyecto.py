@@ -94,6 +94,19 @@ compania_ultima_revision = df.loc[indice_ultima_revision, 'Company']
 st.write("La última revisión realizada tiene el REF:", ref_ultima_revision, ", hecha en el año:", fecha_ultima_revision)
 st.write("Hecho hacia la compañía:", compania_ultima_revision, ", con un rating de:", rating_ultima_revision)
 print('\n')
+paises_latinoamerica = ['Argentina', 'Bolivia', 'Brasil', 'Chile', 'Colombia', 'Costa Rica', 'Cuba', 'Ecuador', 'El Salvador', 'Guatemala', 'Honduras', 'México', 'Nicaragua', 'Panamá', 'Paraguay', 'Perú', 'República Dominicana', 'Uruguay', 'Venezuela']
+latinoamerica_df = df[df['Company location'].isin(paises_latinoamerica)]
+num_companias_latinoamerica = latinoamerica_df.shape[0]
+num_total_companias = df.shape[0]
+porcentaje_latam = (num_companias_latinoamerica / num_total_companias) * 100
+st.subheader('Porcentaje de compañías ubicadas en países de Latinoamérica')
+st.write(f"Porcentaje de compañías ubicadas en países de Latinoamérica: {porcentaje_latam:.2f}%")
+st.write('De 1795 valores de mi base de datos, 140 son el total de apariciones de empresas latam')
+fig, ax = plt.subplots()
+ax.bar(['Latinoamérica', 'Resto'], [porcentaje_latam, 100 - porcentaje_latam], color=['saddlebrown', 'peru'])
+ax.set_ylabel('Porcentaje')
+st.title('Porcentaje de compañías ubicadas en países de Latinoamérica')
+st.write(fig)
 
 
 
