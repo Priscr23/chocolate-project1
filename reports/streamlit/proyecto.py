@@ -18,7 +18,7 @@ se modificó aún más convirtiendola a lo que hoy en día conocemos como el cho
 en barra; así igual llegó mundialmente agregándole más ingredientes. """)
 st.image('C:/Users/prisc/apps/chocolate-project1/data/raw/cacao.webp')
 st.header('Data set')
-df=pd.read_csv('C:/Users/prisc/apps/chocolate-project1/notebooks/datos_limpios.csv')
+df=pd.read_csv('C:/Users/prisc/apps/chocolate-project1/reports/streamlit\datos_modificados2.csv')
 st.dataframe(df)
 print('\n')
 moda_bean = df['Bean type'].mode()[0]
@@ -94,6 +94,7 @@ compania_ultima_revision = df.loc[indice_ultima_revision, 'Company']
 st.write("La última revisión realizada tiene el REF:", ref_ultima_revision, ", hecha en el año:", fecha_ultima_revision)
 st.write("Hecho hacia la compañía:", compania_ultima_revision, ", con un rating de:", rating_ultima_revision)
 print('\n')
+
 
 
 
