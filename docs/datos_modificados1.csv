@@ -76,7 +76,7 @@ Ambrosia,Venezuela,1498,2015,70%,Canada,3.25,Trinitario,Venezuela
 Ambrosia,Peru,1498,2015,68%,Canada,3.5,Trinitario,Peru
 Amedei,"Piura, Blanco de Criollo",979,2012,70%,Italy,3.75,Trinitario,Peru
 Amedei,Porcelana,111,2007,70%,Italy,4.0,Criollo (Porcelana),Venezuela
-Amedei,Nine,111,2007,75%,Italy,4.0,Blend, 
+Amedei,Nine,111,2007,75%,Italy,4.0,Blend,Venezuela
 Amedei,Chuao,111,2007,70%,Italy,5.0,Trinitario,Venezuela
 Amedei,Ecuador,123,2007,70%,Italy,3.0,Trinitario,Ecuador
 Amedei,Jamaica,123,2007,70%,Italy,3.0,Trinitario,Jamaica
@@ -84,9 +84,9 @@ Amedei,Grenada,123,2007,70%,Italy,3.5,Trinitario,Grenada
 Amedei,Venezuela,123,2007,70%,Italy,3.75,Trinitario (85% Criollo),Venezuela
 Amedei,Madagascar,123,2007,70%,Italy,4.0,Trinitario (85% Criollo),Madagascar
 Amedei,Trinidad,129,2007,70%,Italy,3.5,Trinitario,Trinidad
-Amedei,Toscano Black,170,2007,63%,Italy,3.5,Blend, 
-Amedei,Toscano Black,40,2006,70%,Italy,5.0,Blend, 
-Amedei,Toscano Black,75,2006,66%,Italy,4.0,Blend, 
+Amedei,Toscano Black,170,2007,63%,Italy,3.5,Blend,Venezuela
+Amedei,Toscano Black,40,2006,70%,Italy,5.0,Blend,Venezuela
+Amedei,Toscano Black,75,2006,66%,Italy,4.0,Blend,Venezuela
 AMMA,Catongo,1065,2013,75%,Brazil,3.25,Forastero (Catongo),Brazil
 AMMA,"Monte Alegre, 3 diff. plantations",572,2010,85%,Brazil,2.75,Forastero (Parazinho),Brazil
 AMMA,"Monte Alegre, 3 diff. plantations",572,2010,50%,Brazil,3.75,Forastero (Parazinho),Brazil
@@ -143,11 +143,11 @@ Askinosie,Cortes,661,2011,70%,U.S.A.,3.75,Trinitario,Honduras
 Askinosie,Davao,331,2009,77%,U.S.A.,3.75,Trinitario,Philippines
 Askinosie,Xoconusco,141,2007,75%,U.S.A.,2.5,Trinitario,Mexico
 Askinosie,San Jose del Tambo,175,2007,70%,U.S.A.,3.0,Forastero (Arriba),Ecuador
-Bahen & Co.,Houseblend,1474,2015,80%,Australia,3.25,Trinitario, 
+Bahen & Co.,Houseblend,1474,2015,80%,Australia,3.25,Trinitario,Venezuela
 Bahen & Co.,Papua New Guinea,1474,2015,70%,Australia,3.5,Trinitario,Papua New Guinea
 Bahen & Co.,Sambirano,995,2012,70%,Australia,3.0,Trinitario,Madagascar
 Bahen & Co.,Bahia,999,2012,70%,Australia,2.5,Trinitario,Brazil
-Bahen & Co.,Houseblend,999,2012,70%,Australia,2.5,Blend, 
+Bahen & Co.,Houseblend,999,2012,70%,Australia,2.5,Blend,Venezuela
 Bakau,"Bambamarca, 2015",1454,2015,70%,Peru,2.75,Trinitario,Peru
 Bakau,"Huallabamba, 2015",1454,2015,70%,Peru,3.5,Trinitario,Peru
 Bar Au Chocolat,Bahia,1554,2015,70%,U.S.A.,3.5,Trinitario,Brazil
@@ -181,7 +181,7 @@ Benoit Nihant,Cuyagua Village,1141,2013,74%,Belgium,3.5,Criollo,Venezuela
 Benoit Nihant,Rio Peripa H.,1141,2013,73%,Belgium,4.0,Trinitario,Ecuador
 Benoit Nihant,"Bali, Sukrama Bros. Farm, Melaya, 62hr C",757,2011,72%,Belgium,4.0,Trinitario,Indonesia
 Benoit Nihant,"Somia Plantation, Sambirano, 70hr C",773,2011,72%,Belgium,3.75,Trinitario,Madagascar
-Bernachon,Nature,797,2012,55%,France,2.75,Trinitario, 
+Bernachon,Nature,797,2012,55%,France,2.75,Trinitario,Venezuela
 Beschle (Felchlin),Madagascar,636,2011,64%,Switzerland,3.0,Trinitario,Madagascar
 Beschle (Felchlin),Maracaibo,636,2011,88%,Switzerland,3.0,Criollo,Venezuela
 Beschle (Felchlin),"Indigena Amazonia, Grand Cru, Quizas",636,2011,72%,Switzerland,3.5,Trinitario,Venezuela
@@ -213,7 +213,7 @@ Black Mountain,Carenero Superior,256,2008,70%,U.S.A.,2.75,Trinitario,Venezuela
 Black Mountain,Matiguas,256,2008,70%,U.S.A.,3.0,Trinitario,Nicaragua
 Black River (A. Morin),Blue Mountain Region,1331,2014,70%,U.K.,2.75,Trinitario,Jamaica
 Blanxart,"Congo, Grand Cru",1046,2013,82%,Spain,3.5,Forastero,Congo
-Blanxart,Organic Dark,322,2009,72%,Spain,2.75,Trinitario, 
+Blanxart,Organic Dark,322,2009,72%,Spain,2.75,Trinitario,Venezuela
 Blue Bandana,"Akesson's E., Sambirano V.",1740,2016,82%,U.S.A.,3.5,Trinitario,Madagascar
 Blue Bandana,Lachua,1752,2016,75%,U.S.A.,2.75,Trinitario,Guatemala
 Blue Bandana,Kokoa Kamili,1752,2016,75%,U.S.A.,3.5,Trinitario,Tanzania
@@ -244,7 +244,7 @@ Bonnat,Trinite,24,2006,75%,France,3.75,Trinitario,Carribean
 Bonnat,"Ocumare, Puerto Cabello",32,2006,75%,France,4.0,Trinitario,Venezuela
 Bonnat,"Maracaibo, El Rosario",48,2006,75%,France,4.0,Criollo,Venezuela
 Bonnat,Madagascar,75,2006,75%,France,4.0,Trinitario,Madagascar
-Bonnat,One Hundred,81,2006,100%,France,1.5,Trinitario, 
+Bonnat,One Hundred,81,2006,100%,France,1.5,Trinitario,Venezuela
 Bonnat,Ceylan,81,2006,75%,France,3.0,Trinitario,Sri Lanka
 Bonnat,Chuao,81,2006,75%,France,4.0,Trinitario,Venezuela
 Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",316,2009,77%,Ecuador,3.25,Forastero (Arriba),Ecuador
@@ -276,7 +276,7 @@ Bronx Grrl Chocolate,Dominican Republic,1181,2013,68%,U.S.A.,2.75,Trinitario,Dom
 Burnt Fork Bend,Trinidad,1299,2014,72%,U.S.A.,3.25,Trinitario,Trinidad
 Burnt Fork Bend,Mindo,1299,2014,72%,U.S.A.,3.5,Trinitario,Ecuador
 Burnt Fork Bend,Belize,1303,2014,72%,U.S.A.,3.25,Trinitario,Belize
-Burnt Fork Bend,Blend,1303,2014,72%,U.S.A.,3.25,Blend, 
+Burnt Fork Bend,Blend,1303,2014,72%,U.S.A.,3.25,Blend,Venezuela
 Burnt Fork Bend,"Ecuador, Bob Bar",1323,2014,60%,U.S.A.,2.5,Trinitario,Ecuador
 Cacao Arabuco,Puerto Rico,1606,2015,70%,Puerto Rico,2.5,Trinitario,Puerto Rico
 Cacao Atlanta,Tumbes,1215,2014,75%,U.S.A.,2.5,Criollo,Peru
@@ -328,7 +328,7 @@ Callebaut,Grenade,296,2008,60%,Belgium,2.75,Trinitario,Grenada
 Callebaut,Baking,141,2007,70%,Belgium,1.0,Trinitario,Ecuador
 C-Amaro,Cuba,1442,2014,75%,Italy,2.5,Trinitario,Cuba
 C-Amaro,Dominican Republic,1442,2014,72%,Italy,3.0,Trinitario,Dominican Republic
-C-Amaro,"Lago di Como, Blu",1442,2014,70%,Italy,3.5,Blend, 
+C-Amaro,"Lago di Como, Blu",1442,2014,70%,Italy,3.5,Blend,Venezuela
 C-Amaro,Ecuador,1185,2013,100%,Italy,3.5,Trinitario,Ecuador
 C-Amaro,Venezuela,809,2012,80%,Italy,3.0,Trinitario,Venezuela
 C-Amaro,Sao Tome,749,2011,78%,Italy,2.25,Forastero,Sao Tome
@@ -380,7 +380,7 @@ Charm School,Maya Mtn,1900,2016,70%,U.S.A.,3.25,Trinitario,Belize
 Chchukululu (Tulicorp),Arriba,486,2010,55%,Ecuador,2.75,Forastero (Arriba),Ecuador
 Chchukululu (Tulicorp),Los Rios,252,2008,75%,Ecuador,3.0,Forastero (Arriba),Ecuador
 Chequessett,la Amistad,1235,2014,70%,U.S.A.,3.5,Trinitario,Costa Rica
-Chloe Chocolat,Blend No. 1,672,2011,70%,France,3.5,Trinitario, 
+Chloe Chocolat,Blend No. 1,672,2011,70%,France,3.5,Trinitario,Venezuela
 Chocablog,Ecuador,1454,2015,70%,U.K.,3.25,Trinitario,Ecuador
 Choco Del Sol,Maya Mountain w/ nibs,1407,2014,75%,Germany,3.0,Trinitario,Belize
 Choco Del Sol,Maya Mountain,1407,2014,82%,Germany,3.25,Trinitario,Belize
@@ -392,7 +392,7 @@ Chocolarder,Dominican Republic,1514,2015,80%,U.K.,2.5,Trinitario,Dominican Repub
 Chocola'te,Madagascar,647,2011,70%,U.S.A.,3.75,Trinitario,Madagascar
 Chocola'te,Venezuela,647,2011,68%,U.S.A.,3.75,Trinitario,Venezuela
 Chocolate Alchemist-Philly,"Tumbes, ""Zarumilla""",1772,2016,90%,U.S.A.,2.5,Trinitario,Peru
-Chocolate Alchemist-Philly,"Philly Blend, 5 plantations",1772,2016,80%,U.S.A.,2.5,Trinitario, 
+Chocolate Alchemist-Philly,"Philly Blend, 5 plantations",1772,2016,80%,U.S.A.,2.5,Trinitario,Venezuela
 Chocolate Con Amor,Wild Bolivian,1760,2016,70%,U.S.A.,2.5,Trinitario,Bolivia
 Chocolate Con Amor,Uganda,1760,2016,70%,U.S.A.,2.75,Trinitario,Uganda
 Chocolate Con Amor,Dominican Republic,1764,2016,60%,U.S.A.,3.0,Trinitario,Dominican Republic
@@ -415,12 +415,12 @@ ChocoReko,Patanemo,1454,2015,77%,Japan,3.0,Criollo,Venezuela
 Chocosol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",682,2011,65%,Canada,3.25,Trinitario,Mexico
 Chocovic,Xoconusco,478,2010,71%,Spain,3.25,Criollo,Mexico
 Chocovic,Sambirano,478,2010,71%,Spain,3.5,Trinitario,Madagascar
-Chocovic,Kendari,439,2009,60%,Spain,3.25,Trinitario, 
-Chocovic,Tarakan,439,2009,75%,Spain,3.25,Trinitario, 
+Chocovic,Kendari,439,2009,60%,Spain,3.25,Trinitario,Venezuela
+Chocovic,Tarakan,439,2009,75%,Spain,3.25,Trinitario,Venezuela
 Chocovic,Ocumare,209,2008,71%,Spain,3.5,Criollo,Venezuela
 Chocovic,"Bolivar, Guaranda",117,2007,71%,Spain,2.5,Forastero (Arriba),Ecuador
 Chocovic,Guyave,117,2007,71%,Spain,2.5,Trinitario,Grenada
-Chocovic,Maragda,117,2007,70%,Spain,3.0,Blend, 
+Chocovic,Maragda,117,2007,70%,Spain,3.0,Blend,Venezuela
 Chocovivo,Tabasco,1522,2015,65%,U.S.A.,2.5,Trinitario,Mexico
 Chocovivo,Tabasco,1522,2015,75%,U.S.A.,2.5,Trinitario,Mexico
 Choklat,Ocumare,377,2009,80%,Canada,2.5,Criollo,Venezuela
@@ -464,7 +464,7 @@ Coppeneur,Chuao 70hr,451,2009,70%,Germany,3.75,"Criollo, Trinitario",Venezuela
 Coppeneur,"Porcelana, Tabasco, Mexico",220,2008,72%,Germany,3.0,Criollo,Mexico
 Coppeneur,"Porcelana, Venezuela",220,2008,72%,Germany,3.0,Criollo (Porcelana),Venezuela
 Coppeneur,"Sambirano, Menava P.",196,2007,72%,Germany,3.0,Trinitario,Madagascar
-Cote d' Or (Kraft),Sensations Intense,48,2006,70%,Belgium,1.0,Trinitario, 
+Cote d' Or (Kraft),Sensations Intense,48,2006,70%,Belgium,1.0,Trinitario,Venezuela
 Cravve,New Ireland,1283,2014,70%,Australia,2.5,Forastero,Papua New Guinea
 Cravve,"Vanuatu, batch 2410",1335,2014,83%,Australia,2.75,Trinitario,Vanuatu
 Cravve,"Tanzania, batch a1",971,2012,75%,Australia,3.25,Forastero,Tanzania
@@ -481,7 +481,7 @@ Damson,Robson Estate,1610,2015,70%,U.K.,3.0,Trinitario,Trinidad
 Damson,Los Rios,1610,2015,70%,U.K.,3.5,Trinitario,Ecuador
 Damson,Crayfish Bay aka Non Pariel Estate,1666,2015,70%,U.K.,2.25,Trinitario,Grenada
 Damson,O'Payo,1666,2015,70%,U.K.,2.75,Trinitario,Nicaragua
-Dandelion,"Zorzal Reserva, 2015 H., Kerchner",1816,2016,70%,U.S.A.,3.75,Trinitario, 
+Dandelion,"Zorzal Reserva, 2015 H., Kerchner",1816,2016,70%,U.S.A.,3.75,Trinitario,Venezuela
 Dandelion,"Maya Mtn., Break Bar- Snark",1446,2015,70%,U.S.A.,3.0,Trinitario,Belize
 Dandelion,Maya Mountain,1219,2014,70%,U.S.A.,3.5,Trinitario,Belize
 Dandelion,"Camino Verde P., Balao, Guayas, 2013",1295,2014,70%,U.S.A.,3.5,Trinitario,Ecuador
@@ -553,7 +553,7 @@ Doble & Bignall,"Puerto Cabello, Mantuano",1371,2014,72%,U.K.,3.25,Trinitario,Ve
 Doble & Bignall,Johe,1407,2014,72%,U.K.,3.5,"Criollo, Trinitario",Nicaragua
 Dole (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,70%,U.S.A.,3.75,Trinitario,Hawaii
 Dolfin (Belcolade),Africa,304,2008,88%,Belgium,3.0,Forastero,West Africa
-Dolfin (Belcolade),Noir,63,2006,70%,Belgium,1.5,Trinitario, 
+Dolfin (Belcolade),Noir,63,2006,70%,Belgium,1.5,Trinitario,Venezuela
 Domori,Hacienda Victoria,1672,2015,70%,Italy,3.75,Trinitario,Ecuador
 Domori,Ocumare 77,1672,2015,70%,Italy,3.75,Criollo (Ocumare 77),Venezuela
 Domori,"IL100, H. San Jose",1109,2013,100%,Italy,3.0,Criollo,Venezuela
@@ -563,8 +563,8 @@ Domori,"Canoabo, Hacienda San Jose",693,2011,70%,Italy,3.5,Criollo,Venezuela
 Domori,"Chuao, Hacienda San Jose",470,2010,70%,Italy,3.0,Trinitario,Venezuela
 Domori,"Carupano, H. San Jose",227,2008,70%,Italy,3.0,Trinitario,Venezuela
 Domori,Teyuna,272,2008,70%,Italy,3.0,Trinitario,Colombia
-Domori,Blend No. 1,272,2008,78%,Italy,3.5,Blend, 
-Domori,Ilblend,272,2008,70%,Italy,3.75,Blend, 
+Domori,Blend No. 1,272,2008,78%,Italy,3.5,Blend,Venezuela
+Domori,Ilblend,272,2008,70%,Italy,3.75,Blend,Venezuela
 Domori,Porcelana,111,2007,70%,Italy,4.0,Criollo (Porcelana),Venezuela
 Domori,"Ocumare 61, Puertomar",129,2007,75%,Italy,3.25,Criollo (Ocumare 61),Venezuela
 Domori,Granella,135,2007,60%,Italy,3.25,Trinitario,Venezuela
@@ -633,7 +633,7 @@ Escazu,Ocumare,252,2008,72%,U.S.A.,3.0,Criollo,Venezuela
 Ethel's Artisan (Mars),"Peru, Madagascar",666,2011,55%,U.S.A.,2.5,Trinitario,"Peru, Madagascar"
 Ethel's Artisan (Mars),Trinidad,666,2011,55%,U.S.A.,2.5,Trinitario,Trinidad
 Ethel's Artisan (Mars),Porcelana,666,2011,70%,U.S.A.,2.5,Criollo (Porcelana),Venezuela
-Ethel's Artisan (Mars),Red Vanilla,666,2011,62%,U.S.A.,2.75,Trinitario, 
+Ethel's Artisan (Mars),Red Vanilla,666,2011,62%,U.S.A.,2.75,Trinitario,Venezuela
 Ethel's Artisan (Mars),"Venezuela, Trinidad",672,2011,62%,U.S.A.,2.5,Trinitario,"Venezuela, Trinidad"
 Ethereal,Belize,1275,2014,80%,U.S.A.,3.0,Trinitario,Belize
 Ethereal,Ecuador,1275,2014,80%,U.S.A.,3.5,Trinitario,Ecuador
@@ -643,7 +643,7 @@ Feitoria Cacao,Blue Mountain,1732,2016,76%,Portugal,3.0,Trinitario,Jamaica
 Feitoria Cacao,Cuyagua,1736,2016,76%,Portugal,2.5,Trinitario,Venezuela
 Feitoria Cacao,Maya Mountain,1736,2016,76%,Portugal,2.75,Trinitario,Belize
 Felchlin,Grenada,494,2010,58%,Switzerland,3.5,Trinitario,Grenada
-Felchlin,Supremo- SF,105,2006,62%,Switzerland,2.0,Trinitario, 
+Felchlin,Supremo- SF,105,2006,62%,Switzerland,2.0,Trinitario,Venezuela
 Felchlin,Elvesia P.,105,2006,74%,Switzerland,3.0,"Trinitario, Criollo",Dominican Republic
 Felchlin,"Madagascar, Grand Cru",48,2006,64%,Switzerland,3.0,Criollo,Madagascar
 Felchlin,Maracaibo Clasificado,48,2006,65%,Switzerland,3.0,Criollo,Venezuela
@@ -738,7 +738,7 @@ Goodnow Farms,"Almendra Blanca, batch 1004",1924,2016,77%,U.S.A.,2.75,Trinitario
 Goodnow Farms,"El Carmen, batch 1003",1924,2016,77%,U.S.A.,3.25,Trinitario,Nicaragua
 Goodnow Farms,"Asochivite, batch 1005",1924,2016,77%,U.S.A.,3.25,Trinitario,Guatemala
 Grand Place,"Ben Tre, Dong Nai",741,2011,72%,Vietnam,3.0,Trinitario,Vietnam
-Green & Black's (ICAM),Dark,15,2006,70%,U.K.,2.5,Trinitario, 
+Green & Black's (ICAM),Dark,15,2006,70%,U.K.,2.5,Trinitario,Venezuela
 Green Bean to Bar,Madagascar,1896,2016,70%,Japan,3.5,Trinitario,Madagascar
 Grenada Chocolate Co.,Grenada,494,2010,82%,Grenada,3.25,Trinitario,Grenada
 Grenada Chocolate Co.,Grenada,363,2009,60%,Grenada,2.75,Trinitario,Grenada
@@ -748,37 +748,37 @@ Guido Castagna,Ghana,355,2009,64%,Italy,3.0,Forastero,Ghana
 Guido Castagna,Trinidad & Tobago,355,2009,64%,Italy,3.0,Trinitario,"Trinidad, Tobago"
 Guido Castagna,Lacri Blend,355,2009,76%,Italy,3.0,Trinitario,Venezuela
 Guido Castagna,Blend,355,2009,64%,Italy,3.25,Trinitario,"Ven, Trinidad, Ecuador"
-Guittard,"Epique, Blend No. 49",1602,2015,70%,U.S.A.,3.75,Trinitario, 
+Guittard,"Epique, Blend No. 49",1602,2015,70%,U.S.A.,3.75,Trinitario,Venezuela
 Guittard,Haiti,1053,2013,65%,U.S.A.,2.75,Trinitario,Haiti
 Guittard,Nicaragua,1053,2013,65%,U.S.A.,2.75,Trinitario,Nicaragua
 Guittard,Jamaica,1053,2013,65%,U.S.A.,3.25,Trinitario,Jamaica
 Guittard,Ecuador,1053,2013,65%,U.S.A.,3.5,Trinitario,Ecuador
-Guittard,Coucher du Soleil,654,2011,72%,U.S.A.,2.75,Trinitario, 
-Guittard,Lever du Soleil,654,2011,61%,U.S.A.,3.25,Trinitario, 
-Guittard,Onyx,654,2011,72%,U.S.A.,3.25,Trinitario, 
+Guittard,Coucher du Soleil,654,2011,72%,U.S.A.,2.75,Trinitario,Venezuela
+Guittard,Lever du Soleil,654,2011,61%,U.S.A.,3.25,Trinitario,Venezuela
+Guittard,Onyx,654,2011,72%,U.S.A.,3.25,Trinitario,Venezuela
 Guittard,Trinidad,552,2010,65%,U.S.A.,3.0,Trinitario,Trinidad
 Guittard,"O'ahu, N. Shore, Waialua E., Kakoleka",316,2009,55%,U.S.A.,3.0,Trinitario,Hawaii
-Guittard,Nocturne,387,2009,91%,U.S.A.,3.0,Trinitario, 
-Guittard,Complexite,387,2009,70%,U.S.A.,3.5,Blend, 
+Guittard,Nocturne,387,2009,91%,U.S.A.,3.0,Trinitario,Venezuela
+Guittard,Complexite,387,2009,70%,U.S.A.,3.5,Blend,Venezuela
 Guittard,Machu Pichu,259,2008,65%,U.S.A.,3.0,Trinitario,Peru
-Guittard,Special Maker Reserve,276,2008,64%,U.S.A.,3.0,Trinitario, 
+Guittard,Special Maker Reserve,276,2008,64%,U.S.A.,3.0,Trinitario,Venezuela
 Guittard,Ocumare,276,2008,65%,U.S.A.,3.5,Trinitario,Venezuela
-Guittard,Quetzalcoatl,147,2007,72%,U.S.A.,3.5,Blend, 
+Guittard,Quetzalcoatl,147,2007,72%,U.S.A.,3.5,Blend,Venezuela
 Guittard,Chucuri,15,2006,65%,U.S.A.,3.0,Trinitario,Colombia
 Guittard,Sur del Lago,87,2006,65%,U.S.A.,2.5,"Trinitario, Criollo",Venezuela
 Guittard,"Sambirano, Ambanja",87,2006,65%,U.S.A.,3.5,"Criollo, +",Madagascar
 Guittard,"Los Rios, Quevedo",93,2006,65%,U.S.A.,3.5,Forastero (Arriba),Ecuador
-Guittard,Tsaranta,93,2006,61%,U.S.A.,3.5,Blend, 
-Guittard,Semisweet,99,2006,61%,U.S.A.,3.0,Blend, 
+Guittard,Tsaranta,93,2006,61%,U.S.A.,3.5,Blend,Venezuela
+Guittard,Semisweet,99,2006,61%,U.S.A.,3.0,Blend,Venezuela
 Habitual,Papua New Guinea,1197,2014,80%,Canada,2.75,Trinitario,Papua New Guinea
-Habitual,Campesino w/ nibs,1197,2014,74%,Canada,2.75,Trinitario, 
+Habitual,Campesino w/ nibs,1197,2014,74%,Canada,2.75,Trinitario,Venezuela
 Habitual,Dominican Republic,1197,2014,75%,Canada,3.25,Trinitario,Dominican Republic
-Habitual,Trinitario,1197,2014,70%,Canada,3.5,Trinitario, 
-Habitual,Downtown London,1201,2014,65%,Canada,2.75,Trinitario, 
-Habitual,Africa meets Latina,1201,2014,70%,Canada,3.0,Trinitario, 
-Habitual,Amazonas,1201,2014,80%,Canada,3.0,Trinitario, 
+Habitual,Trinitario,1197,2014,70%,Canada,3.5,Trinitario,Venezuela
+Habitual,Downtown London,1201,2014,65%,Canada,2.75,Trinitario,Venezuela
+Habitual,Africa meets Latina,1201,2014,70%,Canada,3.0,Trinitario,Venezuela
+Habitual,Amazonas,1201,2014,80%,Canada,3.0,Trinitario,Venezuela
 Habitual,Sharkey,1201,2014,66%,Canada,3.25,Trinitario,Hawaii
-Habitual,one hundred,1205,2014,100%,Canada,2.0,Trinitario, 
+Habitual,one hundred,1205,2014,100%,Canada,2.0,Trinitario,Venezuela
 Hachez,Arriba,166,2007,77%,Germany,2.5,Forastero (Arriba),Ecuador
 Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,55%,Ecuador,2.75,Trinitario,Ecuador
 Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,70%,Ecuador,3.0,Trinitario,Ecuador
@@ -896,7 +896,7 @@ Kallari (Ecuatoriana),Diego 48hr/ W.F. blend prototype,248,2008,85%,Ecuador,2.75
 Kallari (Ecuatoriana),Diego 60hr/ W.F. blend prototype,248,2008,85%,Ecuador,3.0,Trinitario,Ecuador
 Kallari (Ecuatoriana),Cacao Nacional W.F.,263,2008,75%,Ecuador,2.5,Trinitario,Ecuador
 Kallari (Ecuatoriana),Cacao Nacional W.F.,269,2008,85%,Ecuador,3.0,Trinitario,Ecuador
-Kaoka (Cemoi),Noir,404,2009,70%,France,2.75,Trinitario, 
+Kaoka (Cemoi),Noir,404,2009,70%,France,2.75,Trinitario,Venezuela
 Kaoka (Cemoi),Ecuador,423,2009,80%,France,2.75,Trinitario,Ecuador
 Kerchner,"La Red, Project Reserva, Guaconejo",1133,2013,70%,U.S.A.,3.75,Trinitario,Dominican Republic
 Ki' Xocolatl,Dark,431,2009,72%,Mexico,2.0,Trinitario,Mexico
@@ -936,8 +936,8 @@ La Maison du Chocolat (Valrhona),Loma Sotavento,891,2012,66%,France,3.5,Trinitar
 La Maison du Chocolat (Valrhona),Grenada,741,2011,68%,France,3.5,Trinitario,Grenada
 La Maison du Chocolat (Valrhona),Akosombo,346,2009,68%,France,3.25,Forastero,Ghana
 La Maison du Chocolat (Valrhona),"Porcelana, Pariguan",346,2009,69%,France,3.5,Criollo (Porcelana),Venezuela
-La Maison du Chocolat (Valrhona),Kuruba,439,2009,60%,France,3.0,Trinitario, 
-La Maison du Chocolat (Valrhona),Orinoco,445,2009,60%,France,3.75,Trinitario, 
+La Maison du Chocolat (Valrhona),Kuruba,439,2009,60%,France,3.0,Trinitario,Venezuela
+La Maison du Chocolat (Valrhona),Orinoco,445,2009,60%,France,3.75,Trinitario,Venezuela
 La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,74%,France,3.5,Blend,"Ven., Indonesia, Ecuad."
 La Oroquidea,Peruvian Amazon,721,2011,72%,Peru,2.5,Trinitario,Peru
 La Pepa de Oro,Vinces,713,2011,60%,Ecuador,3.25,Trinitario,Ecuador
@@ -974,7 +974,7 @@ Lillie Belle,La Selva,903,2012,68%,U.S.A.,3.75,Trinitario,Peru
 Lillie Belle,Purple Haze,947,2012,75%,U.S.A.,2.75,Trinitario,"Venezuela, Dom. Rep."
 Lillie Belle,"The Other One, Grand Cru",947,2012,74%,U.S.A.,3.0,Trinitario,Dominican Republic
 Lillie Belle,Wild Thing,947,2012,68%,U.S.A.,3.5,Criollo,Bolivia
-Lindt & Sprungli,Excellence (US Version),157,2007,85%,Switzerland,3.0,Trinitario, 
+Lindt & Sprungli,Excellence (US Version),157,2007,85%,Switzerland,3.0,Trinitario,Venezuela
 Loiza,Puerto Rico,1049,2013,65%,Puerto Rico,2.5,Trinitario,Puerto Rico
 Lonohana,"Haleiwa, O'ahu; Lonohana E., Kanahiku",1383,2014,70%,U.S.A.,3.75,Trinitario,Hawaii
 Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,65%,U.S.A.,3.25,Trinitario,Hawaii
@@ -1047,7 +1047,7 @@ Map Chocolate,Le Chocolat Chaud,1634,2015,78%,U.S.A.,3.5,Trinitario,Honduras
 Marana,Piura,1872,2016,70%,Peru,3.0,Trinitario,Peru
 Marana,Cusco,1884,2016,70%,Peru,2.75,Trinitario,Peru
 Marana,San Martin,1884,2016,70%,Peru,3.0,Trinitario,Peru
-Marigold's Finest,Cacao Nib Crunch,1808,2016,75%,Canada,3.25,Trinitario, 
+Marigold's Finest,Cacao Nib Crunch,1808,2016,75%,Canada,3.25,Trinitario,Venezuela
 Marou,"Tan Phu Dong Island, Heart of Darkness",1650,2015,85%,Vietnam,3.25,Trinitario,Vietnam
 Marou,Ben Tre,1650,2015,68%,Vietnam,3.5,Trinitario,Vietnam
 Marou,"Dak Lak, Batch 2451",1650,2015,70%,Vietnam,3.75,Trinitario,Vietnam
@@ -1073,7 +1073,7 @@ Mast Brothers,French Laundry 20th Anniversary,1359,2014,75%,U.S.A.,3.75,Blend,"P
 Mast Brothers,Shake Shack,959,2012,73%,U.S.A.,3.5,Blend,"Peru, Mad., Dom. Rep."
 Mast Brothers,Madagascar,999,2012,72%,U.S.A.,2.5,Trinitario,Venezuela
 Mast Brothers,Chuao,999,2012,73%,U.S.A.,2.75,Trinitario,Venezuela
-Mast Brothers,Brooklyn Blend,672,2011,72%,U.S.A.,3.5,Trinitario, 
+Mast Brothers,Brooklyn Blend,672,2011,72%,U.S.A.,3.5,Trinitario,Venezuela
 Mast Brothers,"Chuao, Med. Roast",701,2011,76%,U.S.A.,3.0,Trinitario,Venezuela
 Mast Brothers,"Chuao, Dark Roast",709,2011,70%,U.S.A.,3.0,Trinitario,Venezuela
 Mast Brothers,"Chuao, Light Roast",713,2011,81%,U.S.A.,2.75,Trinitario,Venezuela
@@ -1113,13 +1113,13 @@ Metropolitan,South America,1688,2015,70%,Amsterdam,3.5,Trinitario,South America
 Michel Cluizel,"Chiapas, Mokaya P.",963,2012,66%,France,3.75,Trinitario,Mexico
 Michel Cluizel,"Carenero Superior, Concepcion",117,2007,66%,France,3.5,Trinitario,Venezuela
 Michel Cluizel,Vila Gracinda,135,2007,67%,France,3.5,Forastero,Sao Tome
-Michel Cluizel,Carre Amer,24,2006,60%,France,2.0,Trinitario, 
-Michel Cluizel,Carre Grand Noir,24,2006,85%,France,2.0,Trinitario, 
+Michel Cluizel,Carre Amer,24,2006,60%,France,2.0,Trinitario,Venezuela
+Michel Cluizel,Carre Grand Noir,24,2006,85%,France,2.0,Trinitario,Venezuela
 Michel Cluizel,Tamarina,24,2006,70%,France,3.0,Forastero,Sao Tome
 Michel Cluizel,Los Ancones P.,24,2006,67%,France,4.0,Trinitario,Dominican Republic
 Michel Cluizel,Mangaro P.,24,2006,65%,France,4.0,Trinitario,Madagascar
 Michel Cluizel,Maralumi P.,24,2006,64%,France,4.0,Trinitario,Papua New Guinea
-Michel Cluizel,Noir Infini,81,2006,99%,France,2.0,Trinitario, 
+Michel Cluizel,Noir Infini,81,2006,99%,France,2.0,Trinitario,Venezuela
 Middlebury,Maya Mountain,1490,2015,80%,U.S.A.,3.5,Trinitario,Belize
 Middlebury,San Juan Estate,1490,2015,70%,U.S.A.,3.5,Trinitario,Trinidad
 Middlebury,Oko Caribe,1490,2015,75%,U.S.A.,3.75,Trinitario,Dominican Republic
@@ -1128,7 +1128,7 @@ Middlebury,Kokoa Kamili,1538,2015,75%,U.S.A.,3.25,Trinitario,Tanzania
 Middlebury,"Matagalpa, Cacao Bisiesto",1538,2015,70%,U.S.A.,3.5,Trinitario,Nicaragua
 Middlebury,La Red,1117,2013,75%,U.S.A.,2.5,Trinitario,Dominican Republic
 Middlebury,Belize,1117,2013,80%,U.S.A.,3.25,Trinitario,Belize
-Middlebury,Houseblend,887,2012,65%,U.S.A.,1.5,Trinitario, 
+Middlebury,Houseblend,887,2012,65%,U.S.A.,1.5,Trinitario,Venezuela
 Middlebury,Alto Beni,887,2012,75%,U.S.A.,2.0,Criollo,Bolivia
 Middlebury,"Balinese, Java",887,2012,70%,U.S.A.,2.5,Criollo,Indonesia
 Millcreek Cacao Roasters,Ecuador,1073,2013,70%,U.S.A.,2.5,Forastero (Nacional),Ecuador
@@ -1174,7 +1174,7 @@ Nathan Miller,Madagascar,1403,2014,73.5%,U.S.A.,2.5,Trinitario,Madagascar
 Nathan Miller,Ghana,1403,2014,70%,U.S.A.,3.5,Forastero,Ghana
 Neuhaus (Callebaut),Papua New Guinea,531,2010,70%,Belgium,2.5,Criollo,Papua New Guinea
 Neuhaus (Callebaut),Manickchand Estate,230,2008,67%,Belgium,3.75,Trinitario,Trinidad
-Neuhaus (Callebaut),Dark,135,2007,73%,Belgium,1.0,Trinitario, 
+Neuhaus (Callebaut),Dark,135,2007,73%,Belgium,1.0,Trinitario,Venezuela
 Neuhaus (Callebaut),West Africa,15,2006,73%,Belgium,2.0,Forastero,West Africa
 Neuhaus (Callebaut),Sao Tome,15,2006,75%,Belgium,2.75,Forastero,Sao Tome
 Neuhaus (Callebaut),Ocumare,24,2006,71%,Belgium,3.0,Criollo,Venezuela
@@ -1230,7 +1230,7 @@ organicfair,Nicaraqua,1165,2013,72%,Canada,2.75,Trinitario,Nicaragua
 organicfair,Caribe,1165,2013,72%,Canada,3.0,Trinitario,Dominican Republic
 organicfair,Mindo,1165,2013,72%,Canada,3.0,Trinitario,Ecuador
 Original Beans (Felchlin),Papua Kerafat,1438,2014,68%,Switzerland,2.75,Trinitario,Papua New Guinea
-Original Beans (Felchlin),"Grand Cru Blend No.1, 5 yr. Anniversary Ed",1442,2014,80%,Switzerland,3.25,Blend, 
+Original Beans (Felchlin),"Grand Cru Blend No.1, 5 yr. Anniversary Ed",1442,2014,80%,Switzerland,3.25,Blend,Venezuela
 Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R. 24hr c.",733,2011,66%,Switzerland,3.75,Trinitario,Bolivia
 Original Beans (Felchlin),"D.R. Congo, Cru Virunga",331,2009,70%,Switzerland,3.0,Forastero,Congo
 Original Beans (Felchlin),"Piura, Apotequil, ""Porcelana"" 72hr c.",341,2009,75%,Switzerland,3.0,Criollo,Peru
@@ -1271,7 +1271,7 @@ Parliament,Alto Beni,1251,2014,70%,U.S.A.,3.0,Trinitario,Bolivia
 Parliament,Oko Caribe,1255,2014,70%,U.S.A.,3.5,Trinitario,Dominican Republic
 Pascha,Peru,1137,2013,55%,Peru,2.5,Trinitario,Peru
 Pascha,Peru,1137,2013,70%,Peru,2.75,Trinitario,Peru
-Patric,Signature Blend,636,2011,70%,U.S.A.,3.75,Blend, 
+Patric,Signature Blend,636,2011,70%,U.S.A.,3.75,Blend,Venezuela
 Patric,Madagascar,331,2009,75%,U.S.A.,4.0,Trinitario,Madagascar
 Patric,Madagascar,439,2009,67%,U.S.A.,3.5,Trinitario,Madagascar
 Patric,"Rio Caribe, Paria Penninsula",439,2009,70%,U.S.A.,3.5,Trinitario,Venezuela
@@ -1365,7 +1365,7 @@ Ranger,"San Martin, Batch 2",1558,2015,70%,U.S.A.,2.5,Trinitario,Peru
 Ranger,"Chulucanas, Batch 1",1562,2015,80%,U.S.A.,3.25,Trinitario,Peru
 Ranger,"Tumbes, Batch 2",1562,2015,73%,U.S.A.,3.5,Criollo,Peru
 Raoul Boulanger,Piura,1872,2016,75%,France,3.25,Criollo,Peru
-Raw Cocoa,Raw,867,2012,70%,Poland,2.5,Criollo, 
+Raw Cocoa,Raw,867,2012,70%,Poland,2.5,Criollo,Venezuela
 Republica del Cacao (aka Confecta),Esmeraldas,494,2010,75%,Ecuador,3.25,Trinitario,Ecuador
 Republica del Cacao (aka Confecta),"Los Rios, Vinces",439,2009,75%,Ecuador,2.5,Forastero (Arriba),Ecuador
 Republica del Cacao (aka Confecta),Manabi,147,2007,75%,Ecuador,3.0,Forastero (Arriba),Ecuador
@@ -1373,7 +1373,7 @@ Republica del Cacao (aka Confecta),El Oro,147,2007,67%,Ecuador,3.5,Forastero (Ar
 Republica del Cacao (aka Confecta),Los Rios,170,2007,75%,Ecuador,3.75,Forastero (Arriba),Ecuador
 Ritual,"Camino Verde P., Balao, 2015 harvest, batch8",1860,2016,75%,U.S.A.,3.75,Trinitario,Ecuador
 Ritual,"Camino Verde P., Balao, Guayas, 2014",1466,2015,85%,U.S.A.,3.5,Trinitario,Ecuador
-Ritual,"Mid Mountain, 2014",1466,2015,70%,U.S.A.,3.5,Blend, 
+Ritual,"Mid Mountain, 2014",1466,2015,70%,U.S.A.,3.5,Blend,Venezuela
 Ritual,"Toledo District, Maya",1089,2013,75%,U.S.A.,3.75,Trinitario,Belize
 Ritual,"Maranon, Cajamarca",1181,2013,75%,U.S.A.,3.0,Forastero (Nacional),Peru
 Ritual,Sambirano,891,2012,75%,U.S.A.,4.0,Trinitario,Madagascar
@@ -1410,10 +1410,10 @@ Rozsavolgyi,Porcelana,717,2011,71%,Hungary,2.5,Trinitario,Venezuela
 Rozsavolgyi,"Aragua, Trincheras",717,2011,70%,Hungary,3.5,Trinitario,Venezuela
 Rozsavolgyi,Principe,765,2011,77%,Hungary,2.75,Forastero,Principe
 S.A.I.D.,Malgascio,607,2010,64%,Italy,3.5,Trinitario,Madagascar
-S.A.I.D.,100 percent,615,2010,100%,Italy,1.5,Trinitario, 
+S.A.I.D.,100 percent,615,2010,100%,Italy,1.5,Trinitario,Venezuela
 S.A.I.D.,Samana,615,2010,70%,Italy,3.0,Trinitario,Dominican Republic
 S.A.I.D.,Arawak,615,2010,72%,Italy,3.5,Trinitario,Carribean
-S.A.I.D.,Latino,615,2010,72%,Italy,3.5,Trinitario, 
+S.A.I.D.,Latino,615,2010,72%,Italy,3.5,Trinitario,Venezuela
 Sacred,Midnight,813,2012,83%,U.S.A.,2.75,Trinitario,Central and S. America
 Sacred,Twilight,813,2012,69%,U.S.A.,3.25,Trinitario,Central and S. America
 Salgado,Bahia Superior,288,2008,70%,Argentina,3.5,Forastero,Brazil
@@ -1435,14 +1435,14 @@ Scharffen Berger,Asante,336,2009,65%,U.S.A.,4.0,Forastero,Ghana
 Scharffen Berger,Ben Tre,445,2009,72%,U.S.A.,3.75,Trinitario,Vietnam
 Scharffen Berger,Finisterra,227,2008,72%,U.S.A.,3.0,Blend,"Ven., Trinidad, Mad."
 Scharffen Berger,Las Islas,117,2007,72%,U.S.A.,3.0,Blend,Carribean(DR/Jam/Tri)
-Scharffen Berger,Nibby,135,2007,62%,U.S.A.,3.0,Trinitario, 
+Scharffen Berger,Nibby,135,2007,62%,U.S.A.,3.0,Trinitario,Venezuela
 Scharffen Berger,Cuyagua,135,2007,75%,U.S.A.,3.75,Trinitario,Venezuela
 Scharffen Berger,Antilles (Trin/Gren/DR/Ven),188,2007,75%,U.S.A.,3.0,Blend,Carribean
-Scharffen Berger,Extra Dark,15,2006,82%,U.S.A.,2.0,Trinitario, 
-Scharffen Berger,Bittersweet,15,2006,70%,U.S.A.,3.5,Blend, 
+Scharffen Berger,Extra Dark,15,2006,82%,U.S.A.,2.0,Trinitario,Venezuela
+Scharffen Berger,Bittersweet,15,2006,70%,U.S.A.,3.5,Blend,Venezuela
 Scharffen Berger,Kumasi Sambirano,40,2006,68%,U.S.A.,2.0,Blend,Ghana & Madagascar
 Scharffen Berger,Jamaica a l'ancienne,56,2006,70%,U.S.A.,2.0,Trinitario,Jamaica
-Scharffen Berger,Semisweet,56,2006,62%,U.S.A.,3.0,Blend, 
+Scharffen Berger,Semisweet,56,2006,62%,U.S.A.,3.0,Blend,Venezuela
 Seaforth,Dominican Republic,1658,2015,70%,U.K.,2.75,Trinitario,Domincan Republic
 Seaforth,Grenada,1658,2015,70%,U.K.,2.75,Trinitario,Grenada
 Shark Mountain,Jamaica,1450,2015,72%,U.S.A.,3.25,Trinitario,Jamaica
@@ -1505,7 +1505,7 @@ Solstice,Sambirano,1157,2013,70%,U.S.A.,3.0,Trinitario,Madagascar
 Solstice,Amazonas,1157,2013,70%,U.S.A.,3.0,Trinitario,Venezuela
 Solstice,Bolivia,1161,2013,70%,U.S.A.,3.25,Trinitario,Bolivia
 Solstice,San Martin,1161,2013,70%,U.S.A.,3.25,Trinitario,Peru
-Solstice,Wasatch,1161,2013,70%,U.S.A.,3.5,Blend, 
+Solstice,Wasatch,1161,2013,70%,U.S.A.,3.5,Blend,Venezuela
 Soma,"Oko Caribe, Duarte P., Collab w Chocosol",1820,2016,62%,Canada,3.5,Trinitario,Domincan Republic
 Soma,"Sambirano Valley, Black Science, B-60307.0",1820,2016,70%,Canada,3.5,Trinitario,Madagascar
 Soma,"Bahia Black, batch bra50722.1",1828,2016,70%,Canada,3.5,Forastero (Parazinho),Brazil
@@ -1525,7 +1525,7 @@ Soma,"Rizek Cacao, Domin. Rep.",1019,2013,77%,Canada,3.75,Trinitario,Dominican R
 Soma,Java,1030,2013,70%,Canada,3.25,Criollo,Indonesia
 Soma,"Apurimac, El Quinacho Co-op",1073,2013,70%,Canada,2.75,Criollo,Peru
 Soma,"Sangre Grande P., Trinidad",1073,2013,70%,Canada,3.75,Trinitario,Trinidad
-Soma,Chef's Blend,1077,2013,70%,Canada,3.25,Trinitario, 
+Soma,Chef's Blend,1077,2013,70%,Canada,3.25,Trinitario,Venezuela
 Soma,Patanemo,1077,2013,70%,Canada,3.75,Criollo,Venezuela
 Soma,Crazy 88,1077,2013,88%,Canada,4.0,Trinitario,"Guat., D.R., Peru, Mad., PNG"
 Soma,"Maracaibo, El Vigia",1077,2013,70%,Canada,4.0,Criollo,Venezuela
@@ -1623,8 +1623,8 @@ Taza,Chiapan,451,2009,75%,U.S.A.,2.75,Trinitario,Mexico
 Taza,"Dark, Stone Ground",180,2007,70%,U.S.A.,3.0,Trinitario,Dominican Republic
 TCHO,West Africa,1716,2016,62%,U.S.A.,2.0,Forastero,West Africa
 TCHO,Peru- Ecuador,915,2012,99%,U.S.A.,3.25,Trinitario,"Peru, Ecuador"
-TCHO,TCHOPro 60.5,387,2009,60%,U.S.A.,2.75,Trinitario, 
-TCHO,TCHOPro 68,387,2009,68%,U.S.A.,3.0,Trinitario, 
+TCHO,TCHOPro 60.5,387,2009,60%,U.S.A.,2.75,Trinitario,Venezuela
+TCHO,TCHOPro 68,387,2009,68%,U.S.A.,3.0,Trinitario,Venezuela
 TCHO,Chocolatey-beta,199,2008,70%,U.S.A.,2.5,Forastero,Ghana
 TCHO,Fruity-beta,280,2008,70%,U.S.A.,2.5,Trinitario,Peru
 TCHO,Citrus-beta,280,2008,70%,U.S.A.,2.75,Trinitario,Madagascar
@@ -1682,10 +1682,10 @@ Upchurch,"Madagascar, Sassy Bar",1752,2016,72%,U.S.A.,3.0,Trinitario,Madagascar
 Upchurch,"Tanzania, Party Bar",1752,2016,72%,U.S.A.,3.25,Trinitario,Tanzania
 Urzi,"Sur del Lago, Merida",1327,2014,65%,Italy,3.25,Trinitario,Venezuela
 Valrhona,"Piura, Illanka, Quemazon",1510,2015,63%,France,4.0,Trinitario,Peru
-Valrhona,"Andoa, Grand Cru blend",1145,2013,70%,France,3.5,Trinitario, 
+Valrhona,"Andoa, Grand Cru blend",1145,2013,70%,France,3.5,Trinitario,Venezuela
 Valrhona,"Loma Sotavento, 2013",1153,2013,64%,France,3.5,Trinitario,Dominican Republic
 Valrhona,"Otucan, Grand Cru",931,2012,69%,France,4.0,Trinitario,Venezuela
-Valrhona,Caraque,709,2011,56%,France,3.25,Trinitario, 
+Valrhona,Caraque,709,2011,56%,France,3.25,Trinitario,Venezuela
 Valrhona,"Porcelana, Pedegral",757,2011,64%,France,4.0,Criollo,Venezuela
 Valrhona,Tainori,327,2009,64%,France,3.75,Trinitario,Dominican Republic
 Valrhona,Alpaco,370,2009,66%,France,3.75,Trinitario,Ecuador
@@ -1693,7 +1693,7 @@ Valrhona,Nyangbo,395,2009,68%,France,3.5,Forastero,Ghana
 Valrhona,Araguani,117,2007,72%,France,3.0,Blend,"Venezuela, Carribean"
 Valrhona,Chuao 2002 P.,129,2007,65%,France,3.75,Trinitario,Venezuela
 Valrhona,Manjari,129,2007,64%,France,4.0,"Criollo, Trinitario",Madagascar
-Valrhona,Le Noir Extra Amer,147,2007,85%,France,1.5,Trinitario, 
+Valrhona,Le Noir Extra Amer,147,2007,85%,France,1.5,Trinitario,Venezuela
 Valrhona,Abinao,153,2007,85%,France,2.5,Forastero,West Africa
 Valrhona,Le Noir Amer,157,2007,71%,France,2.75,Forastero,West Africa
 Valrhona,"Porcelana, Maracaibo, Palmira P. 2006",162,2007,64%,France,3.25,Criollo (Porcelana),Venezuela
@@ -1765,7 +1765,7 @@ Zak's,"Dominican Republic, Batch D2",1578,2015,70%,U.S.A.,3.25,Trinitario,Dominc
 Zak's,"Madagascar, Batch 2",1578,2015,70%,U.S.A.,3.25,Trinitario,Madagascar
 Zak's,"Peru, Batch 1",1578,2015,70%,U.S.A.,3.25,Trinitario,Peru
 Zak's,"Belize, Batch 2",1578,2015,70%,U.S.A.,3.5,Trinitario,Belize
-Zak's,"House Blend, Batch 2",1582,2015,60%,U.S.A.,3.0,Trinitario, 
+Zak's,"House Blend, Batch 2",1582,2015,60%,U.S.A.,3.0,Trinitario,Venezuela
 Zart Pralinen,"Millot P., Ambanja",1820,2016,70%,Austria,3.5,"Criollo, Trinitario",Madagascar
 Zart Pralinen,UNOCACE,1824,2016,70%,Austria,2.75,Nacional (Arriba),Ecuador
 Zart Pralinen,San Juan Estate,1824,2016,85%,Austria,2.75,Trinitario,Trinidad
@@ -1773,13 +1773,13 @@ Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,85%,Austria,3.0,"Crioll
 Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,70%,Austria,3.5,"Criollo, Trinitario",Tanzania
 Zart Pralinen,"San Juan Estate, Gran Couva",1880,2016,78%,Austria,3.5,Trinitario,Trinidad
 Zokoko,Guadalcanal,1716,2016,78%,Australia,3.75,Trinitario,Solomon Islands
-Zokoko,Goddess Blend,1780,2016,65%,Australia,3.25,Trinitario, 
+Zokoko,Goddess Blend,1780,2016,65%,Australia,3.25,Trinitario,Venezuela
 Zokoko,Alto Beni,697,2011,68%,Australia,3.5,Trinitario,Bolivia
 Zokoko,Tokiala,701,2011,66%,Australia,3.5,Trinitario,Papua New Guinea
 Zokoko,"Tranquilidad, Baures",701,2011,72%,Australia,3.75,Trinitario,Bolivia
-Zotter,Raw,1205,2014,80%,Austria,2.75,Trinitario, 
+Zotter,Raw,1205,2014,80%,Austria,2.75,Trinitario,Venezuela
 Zotter,"Bocas del Toro, Cocabo Co-op",801,2012,72%,Austria,3.5,Trinitario,Panama
-Zotter,Amazonas Frucht,801,2012,65%,Austria,3.5,Trinitario, 
+Zotter,Amazonas Frucht,801,2012,65%,Austria,3.5,Trinitario,Venezuela
 Zotter,"Satipo Pangoa region, 16hr conche",875,2012,70%,Austria,3.0,Criollo (Amarru),Peru
 Zotter,"Satipo Pangoa region, 20hr conche",875,2012,70%,Austria,3.5,Criollo (Amarru),Peru
 Zotter,"Loma Los Pinos, Yacao region, D.R.",875,2012,62%,Austria,3.75,Trinitario,Dominican Republic
@@ -1788,7 +1788,7 @@ Zotter,Huiwani Coop,879,2012,75%,Austria,3.0,"Criollo, Trinitario",Papua New Gui
 Zotter,El Ceibo Coop,879,2012,90%,Austria,3.25,Trinitario,Bolivia
 Zotter,Santo Domingo,879,2012,70%,Austria,3.75,Trinitario,Dominican Republic
 Zotter,"Kongo, Highlands",883,2012,68%,Austria,3.25,Forastero,Congo
-Zotter,"Indianer, Raw",883,2012,58%,Austria,3.5,Trinitario, 
+Zotter,"Indianer, Raw",883,2012,58%,Austria,3.5,Trinitario,Venezuela
 Zotter,Peru,647,2011,70%,Austria,3.75,Trinitario,Peru
 Zotter,Congo,749,2011,65%,Austria,3.0,Forastero,Congo
 Zotter,Kerala State,749,2011,65%,Austria,3.5,Forastero,India
