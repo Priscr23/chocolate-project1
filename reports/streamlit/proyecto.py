@@ -107,7 +107,13 @@ ax.bar(['Latinoamérica', 'Resto'], [porcentaje_latam, 100 - porcentaje_latam], 
 ax.set_ylabel('Porcentaje')
 st.title('Porcentaje de compañías ubicadas en países de Latinoamérica')
 st.write(fig)
-
+print('\n')
+st.title("Mapa")
+st.write(" Este mapa muestra las diversas ubicaciones de las empresas de chocolate en diferentes países.")
+iframe_html = """
+<iframe src="https://www.google.com/maps/d/embed?mid=1GRxwVcOZs_qCF4DP6XLYb054iHCbdPI&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+"""
+st.components.v1.html(iframe_html, width=700, height=500)
 
 
 
