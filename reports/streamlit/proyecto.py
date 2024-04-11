@@ -1,6 +1,10 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import accuracy_score
 st.title('Cacao flavors project')
 st.markdown('*priscila cervantes*')
 st.header('Historia del cacao')
@@ -119,6 +123,28 @@ iframe_html = """
 """
 st.components.v1.html(iframe_html, width=700, height=500)
 st.write(" Este mapa muestra las diversas ubicaciones de las empresas de chocolate en diferentes países.")
+print('\n')
+st.subheader('Clasificador')
+df_c = pd.read_csv('C:/Users/prisc/apps/chocolate-project1/docs/datos_modificados1.csv')
+df_c = pd.get_dummies(df_c, columns=['Company', 'Specific region of origin of bean', 'Company location', 'Broad region of origin of bean'])
+df_c['Cocoa %'] = df_c['Cocoa %'].str.rstrip('%').astype(float)
+X = df_c.drop('Bean type', axis=1)  
+y = df_c['Bean type'] 
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0) 
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+knn = KNeighborsClassifier(n_neighbors=5)
+knn.fit(X_train_scaled, y_train)
+y_pred = knn.predict(X_test_scaled)
+accuracy = accuracy_score(y_test, y_pred)
+train_score = knn.score(X_train_scaled, y_train)
+test_score = knn.score(X_test_scaled, y_test)
+st.write("Entrenamiento:", train_score)
+st.write("Prueba:", test_score)
+st.write("Precisión:", accuracy)
+st.write('Con este clasificador nos ayuda a saber que tipo de semilla sería si en cierto caso la base tuviera datos faltantes, teniendo un puntaje considerado bueno para desglosar resultados.')
+
 
 
 
