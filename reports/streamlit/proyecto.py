@@ -117,6 +117,12 @@ st.subheader('Porcentaje de compañías ubicadas en países de Latinoamérica')
 st.write(fig)
 st.write("Representando un 7.8% latam.")
 print('\n')
+st.subheader('Cacao más frecuente/trabajado por localidad de las compañías')
+produccion_por_pais_y_tipo = df.groupby(['Company location', 'Bean type']).size().reset_index(name='Frecuencia')
+moda_por_pais = produccion_por_pais_y_tipo.groupby('Company location')['Bean type'].agg(lambda x: x.mode()[0])
+st.write(moda_por_pais)
+st.write('En la tabla se muestra el cacao más frecuente que se trabaja en cada compañía (ubicación donde se encuentra la empresa)')
+print('\n')
 st.subheader("Mapa")
 iframe_html = """
 <iframe src="https://www.google.com/maps/d/embed?mid=1GRxwVcOZs_qCF4DP6XLYb054iHCbdPI&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
@@ -144,6 +150,9 @@ st.write("Entrenamiento:", train_score)
 st.write("Prueba:", test_score)
 st.write("Precisión:", accuracy)
 st.write('Con este clasificador nos ayuda a saber que tipo de semilla sería si en cierto caso la base tuviera datos faltantes, teniendo un puntaje considerado bueno para desglosar resultados.')
+
+
+
 
 
 
