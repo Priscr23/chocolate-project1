@@ -150,6 +150,28 @@ st.write("Entrenamiento:", train_score)
 st.write("Prueba:", test_score)
 st.write("Precisión:", accuracy)
 st.write('Con este clasificador nos ayuda a saber que tipo de semilla sería si en cierto caso la base tuviera datos faltantes, teniendo un puntaje considerado bueno para desglosar resultados.')
+st.subheader('FACT ABOUT CACAO')
+st.write('''El precio del cacao ha subido exponencialmente su precio en comparación del año pasado (2023) a este (2024),
+        tanto así que a principios del mes de abril superó los $10,200 dólares.
+         Esto se debe al cambio climático, a las grandes sequías en los países productores.
+         Como consecuencia, los precios del chocolate comercial seguirán aumentando en los próximos dos años, como se ha hecho
+         los útlimos años, donde el precio del chocolate ha aumentado el 11.6%, y debido a esto las empresas han comenzado a modificar 
+         su producto agregando frutas o nueces para reducir el procentaje de chocolate y sustituir el cacao.
+         Por otro lado, en plantaciones clandestinas de cacao, más en las zonas africanas, se dice que detrás de el cultivo de cacao,
+         hay más de 1.5 millones de niños trabajando en las plantaciones, realizando trabajos y tareas peligrosas que ponen en riesgo
+         su vida.
+         ''')
+st.subheader('ACTIVIDAD')
+st.write('Recuerden muy bien que color se están comiendo, y que sabor caracteriza a cada uno :)')
+st.markdown(
+    """
+    <div style="width: 200px; height: 100px; background: linear-gradient(to right, green 50%, yellow 50%);"></div>
+    """,
+    unsafe_allow_html=True
+)
+
+
+
 
 
 
