@@ -2,6 +2,10 @@
 -e .
 
 # external requirements
+streamlit                                            
+pandas                                                   
+matplotlib                                      
+Scikit-learn   
 click
 Sphinx
 coverage
