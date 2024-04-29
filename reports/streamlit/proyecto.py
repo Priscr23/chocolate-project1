@@ -161,6 +161,7 @@ st.write('''El precio del cacao ha subido exponencialmente su precio en comparac
          hay más de 1.5 millones de niños trabajando en las plantaciones, realizando trabajos y tareas peligrosas que ponen en riesgo
          su vida.
          ''')
+st.image('C:/Users/prisc/apps/chocolate-project1/data/raw/3bfc39f13c899dce26c78914112d3305.jpg')
 st.subheader('ACTIVIDAD')
 st.write('Recuerden muy bien que color se están comiendo, y que sabor caracteriza a cada uno :)')
 st.markdown(
